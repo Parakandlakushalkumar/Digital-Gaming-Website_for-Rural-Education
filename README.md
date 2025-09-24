@@ -1,23 +1,47 @@
 # Digital-Gaming-Website_for-Rural-Education
 
+netlify link(live link):  https://dainty-alpaca-a5c263.netlify.app/
 
-| username 
-(grade -wise)   | password   |
-|---------------|------------|
-| meera_9b      | meera      |
-| sameera12     | sameera    |
-| jaya45        | jaya       |
-| sita_10a      | sita       |
-| navya11       | navya      |
-| DL            | iiugb      |
-| pooja12       | pooja      |
-| priya_7b      | priya      |
-| rohit_8a      | rohit      |
-| akhil         | 12345      |
-| amit_6a       | amit       |
-| ram_11b       | ram        |
-| ishani12      | isha       |
-| pranathi10    | pranathi   |
+## User Accounts
+
+### Student Accounts
+These accounts are created **grade-wise** for students.  
+Each student receives a predefined username and password provided by the school.  
+
+| username (grade-wise) | password   |
+|-----------------------|------------|
+| meera_9b              | meera      |
+| sameera12             | sameera    |
+| jaya45                | jaya       |
+| sita_10a              | sita       |
+| navya11               | navya      |
+| DL                    | iiugb      |
+| pooja12               | pooja      |
+| priya_7b              | priya      |
+| rohit_8a              | rohit      |
+| akhil                 | 12345      |
+| amit_6a               | amit       |
+| ram_11b               | ram        |
+| ishani12              | isha       |
+| pranathi10            | pranathi   |
+
+---
+
+### Teacher Accounts
+Teacher account data must be **added manually by the school management (e.g., Vignan Management)**.  
+Teachers **cannot create their own accounts** directly; all credentials are generated and managed by the administration.  
+
+| username   | password |
+|------------|----------|
+| teacher8   | pass1234 |
+| teacher11  | pass1234 |
+| teacher10  | pass1234 |
+| teacher9   | pass1234 |
+| teacher12  | pass1234 |
+| teacher7   | pass1234 |
+| teacher6   | pass1234 |
+
+
 
 Gamified Learning Platform – Workflow
 👩‍🎓 Student Workflow
